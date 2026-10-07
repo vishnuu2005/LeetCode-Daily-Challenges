@@ -26,9 +26,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0045-jump-game-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Array
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0045-jump-game-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
