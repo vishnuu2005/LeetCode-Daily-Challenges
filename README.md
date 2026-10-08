@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0401-binary-watch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0045-jump-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
