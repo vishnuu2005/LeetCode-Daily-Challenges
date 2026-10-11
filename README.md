@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0045-jump-game-ii) |
 | [0518-coin-change-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0518-coin-change-ii) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0129-sum-root-to-leaf-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
