@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0401-binary-watch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0779-k-th-symbol-in-grammar) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Dynamic Programming
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0045-jump-game-ii) |
 | [0518-coin-change-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0518-coin-change-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -152,4 +155,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1254-number-of-closed-islands) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
 <!---LeetCode Topics End-->
