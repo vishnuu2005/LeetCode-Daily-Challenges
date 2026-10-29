@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0006-zigzag-conversion) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
