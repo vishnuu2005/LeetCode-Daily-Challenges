@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0045-jump-game-ii) |
 | [0518-coin-change-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0518-coin-change-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1254-number-of-closed-islands) |
+| [3665-twisted-mirror-path-count](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
