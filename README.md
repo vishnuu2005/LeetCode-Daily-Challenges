@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0779-k-th-symbol-in-grammar) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3942-minimum-operations-to-sort-a-permutation) |
