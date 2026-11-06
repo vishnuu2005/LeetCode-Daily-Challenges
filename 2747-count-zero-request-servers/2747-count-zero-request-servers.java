@@ -1,21 +1,24 @@
 class Solution {
     public int[] countServers(int n, int[][] logs, int x, int[] queries) {
-        int[][] reqs = Arrays.copyOf(logs, logs.length + 1);
-        reqs[logs.length] = new int[] {0, Integer.MAX_VALUE};  // sentinel: no window ever reaches it
-        Arrays.sort(reqs, 0, logs.length, Comparator.comparingInt(r -> r[1]));  // by time, the sentinel stays last
-        Integer[] order = new Integer[queries.length];
-        Arrays.setAll(order, i -> i);
-        Arrays.sort(order, Comparator.comparingInt(i -> queries[i]));  // query positions in time order
-
-        int[] cnt = new int[n + 1], ans = new int[queries.length];  // cnt: requests per server inside the window [q - x, q]
-        int busy = 0, lo = 0, hi = 0;  // busy: servers with at least one request in it
-        for (int i : order) {
-            int q = queries[i];
-            for (; reqs[hi][1] <= q; hi++)  // requests up to q come in
-                if (cnt[reqs[hi][0]]++ == 0) busy++;
-            for (; reqs[lo][1] < q - x; lo++)  // requests before q - x go out
-                if (--cnt[reqs[lo][0]] == 0) busy--;
-            ans[i] = n - busy;
+        Arrays.sort(logs, (a, b) -> a[1] - b[1]);
+        int q = queries.length;
+        Integer[] order = new Integer[q];
+        for (int i = 0; i < q; i++) order[i] = i;
+        Arrays.sort(order, (a, b) -> queries[a] - queries[b]);
+        int[] cnt = new int[n + 1];
+        int active = 0, l = 0, r = 0;
+        int[] ans = new int[q];
+        for (int qi : order) {
+            int time = queries[qi];
+            while (r < logs.length && logs[r][1] <= time) {
+                if (cnt[logs[r][0]]++ == 0) active++;
+                r++;
+            }
+            while (l < r && logs[l][1] < time - x) {
+                if (--cnt[logs[l][0]] == 0) active--;
+                l++;
+            }
+            ans[qi] = n - active;
         }
         return ans;
     }
