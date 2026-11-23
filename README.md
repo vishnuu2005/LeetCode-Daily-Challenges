@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0779-k-th-symbol-in-grammar](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0779-k-th-symbol-in-grammar) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0518-coin-change-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0518-coin-change-ii) |
 | [1254-number-of-closed-islands](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -246,4 +248,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
