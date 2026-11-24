@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0779-k-th-symbol-in-grammar) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/2747-count-zero-request-servers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Two Pointers
@@ -260,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
