@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/0779-k-th-symbol-in-grammar) |
 | [1352-product-of-the-last-k-numbers](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1352-product-of-the-last-k-numbers) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3360-stone-removal-game](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [3360-stone-removal-game](https://github.com/vishnuu2005/LeetCode-Daily-Challenges/tree/master/3360-stone-removal-game) |
 ## Ordered Set
 |  |
 | ------- |
